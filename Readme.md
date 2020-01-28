@@ -47,6 +47,8 @@ Front-end
 Back-end
 * Python
 * SQL
+* Twilio API
+* Flask (used for testing)
 
 Database
 * Google Cloud SQL
