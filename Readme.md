@@ -1,4 +1,4 @@
-# Project Consolidation
+# Bushfire Notifier Application
 
 In an effort to understand the current problem of the Australian bushfires and present a solution, our team created an interactive website to allow users to track nearby fires and get the help they need.
 
